@@ -1,0 +1,5 @@
+#ignore folder name 'node_modules'
+node_modules/
+
+#ignore all .java file using *.java
+#ignore file name readme.txt using readme.txt
